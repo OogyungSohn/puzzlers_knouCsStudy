@@ -5,9 +5,7 @@ public class Member {
 
     public Member(String id) {
         this.id = id;
-    }
-
-    ;
+    };
 
     @Override
     public boolean equals(Object obj) {
